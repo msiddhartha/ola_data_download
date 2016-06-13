@@ -1,0 +1,22 @@
+{
+  "name": "ola_data_download",
+  "version": "1.0.0",
+  "description": "Download parsed Ola data based on import id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sm@ysg.co.in",
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^1.0.0",
+    "koa": "^1.2.0",
+    "koa-better-body": "^2.0.1",
+    "koa-route": "^2.4.2",
+    "koa-sendfile": "^2.0.0",
+    "moment-timezone": "^0.5.4",
+    "mysql": "^2.10.2",
+    "rxjs": "^5.0.0-beta.8",
+    "zip-stream": "^1.0.0"
+  }
+}
