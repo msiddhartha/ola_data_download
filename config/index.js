@@ -23,10 +23,10 @@ let config = {
 	prod: {
 		mode: 'prod',
 		db: {
-			host: '188.166.248.4',
-			user: 'sub_ouch',
-			password: 'jyDsvxN7gYMMYLeVFmNv3szjP3V4BaWF',
-			schema: 'ouch'			
+			host: '*******',
+			user: '*********',
+			password: '',
+			schema: '*****"		
 		},
 		port: 2300
 	}
